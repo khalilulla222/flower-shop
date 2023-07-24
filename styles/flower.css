@@ -1,0 +1,196 @@
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 178px;
+}
+
+.banner{
+    display: flex;
+    padding: ;
+    justify-content:space-between;
+}
+.banner-content{
+    padding: 197px 97px 365px 240px;
+}
+.banner-title{
+    color: #272727;
+   font-size: 70px;
+   font-weight: ;}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */}
+
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    padding: 20px 43px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.profile-pic{
+    padding: 50px 240px 0 0;
+}
+
+/* main */
+.Featured{
+    text-align: center;
+    
+}
+
+.div-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.div-images{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 128px;
+}
+
+.div-info{
+    padding-top: 122px;
+}
+
+.png-6{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+height: 538px;
+}
+
+.bbb{
+    padding: 110px;
+    
+}
+.png-5{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+height: 538px;
+}
+.png-7{
+     border-radius: 300px 300px 0px 0px;
+     background: rgba(71, 125, 17, 0.15);
+     width: 464px;
+     height: 538px;
+}
+
+
+
+.img-position {
+   text-align: center ;
+   margin-bottom: 0;
+   padding: 24px;
+   
+   
+   
+}
+.text-pink{
+    color: #E55473;
+}
+.div-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+
+.section{
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 128px;
+    
+}
+
+.hot-deal{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+
+.deal-content{
+    text-align: center;
+    padding: 230px 215px 0 0;
+}
+.rose{
+    width: 318px;
+    height: 420px;
+    padding: 100px 429px 100px 0;
+    
+}
+.aaa{
+    padding: 24px;
+}
+#mmm{
+    
+}
+
+.back-image{
+   
+    background-image: url('../images/Rectangle\ 9.png');
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    margin: auto;
+    
+}  
+
+.contact {
+    text-align: center;
+    padding-bottom: 121px;
+}
+.contact-email{
+    width: 700px;
+height: 58px;
+border-radius: 8px;
+background: #FFF;
+}
+
+.footer{
+   text-align: center;
+background: #111010;
+height: 449px;
+}
+.foot-title{
+ padding-top: 128px;
+}
+.title-1{
+color: #E55473;
+font-size: 48px;
+font-weight: 800;
+height: 449px;
+}
+.title-2{
+color: #FFF;
+font-size: 48px;
+font-weight: 800;
+
+}
+.foot-desctiption{
+    
+    color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+
+}
+.small{
+   color: #FFF;
+}
